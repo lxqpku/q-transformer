@@ -9,7 +9,7 @@ setup(
   author = 'Phil Wang',
   author_email = 'lucidrains@gmail.com',
   long_description_content_type = 'text/markdown',
-  url = 'https://github.com/lucidrains/q-transformer',
+  url = 'https://github.com/lxqpku/q-transformer',
   keywords = [
     'artificial intelligence',
     'deep learning',
